@@ -1,5 +1,0 @@
-This is new file created in git hub .
-.sh samplefile1
-./.sh samplefile1
-echo "samplefile1"
-echo $ "samplefile1"
